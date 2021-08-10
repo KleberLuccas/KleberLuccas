@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/KleberLuccas">
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KleberLuccas&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KleberLuccas&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleberLuccas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   <img align="center" width="480" height="272" src="https://media4.giphy.com/media/4uMy0wqz6V1SM/giphy.gif">
