@@ -1,14 +1,12 @@
 <h1> Hi! My name is Kleber. </h1>
 
-<div>
-  <a href="https://github.com/KleberLuccas">
-  (https://github-readme-stats.vercel.app/api?username=zainfathoni&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zainfathoni&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  (https://github-readme-stats.vercel.app/api/top-langs/?username=KleberLuccas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleberLuccas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
     
     
   <img align="center" width="480" height="272" src="https://media4.giphy.com/media/4uMy0wqz6V1SM/giphy.gif">
-</div>
+  
  <br>
 <div  align="center"> 
   <a href="https://www.instagram.com/KleberLuccaz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
