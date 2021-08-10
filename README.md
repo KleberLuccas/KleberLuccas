@@ -1,6 +1,6 @@
 <h1> Hi! My name is Kleber. </h1>
 
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zainfathoni&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  <!--[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KleberLuccas&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleberLuccas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
     
