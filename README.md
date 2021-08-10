@@ -7,7 +7,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KleberLuccas&layout-compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
     
-  <img align="center" width="480" height="272" src="https://media4.giphy.com/media/4uMy0wqz6V1SM/giphy.gif">
+  <img align="center" width="480" height="272" src="https://piras.com.br/wp-content/uploads/2014/02/fim-de-semana.gif">
   
  <br>
 <div  align="center"> 
@@ -18,3 +18,4 @@
  
 </div>
  
+<img align="center" width="480" height="272" src="https://piras.com.br/wp-content/uploads/2014/02/fim-de-semana.gif">
