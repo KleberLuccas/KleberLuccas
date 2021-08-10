@@ -5,7 +5,7 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=KleberLuccas&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KleberLuccas&&layout=compact&hide=shell&theme=jolly"/>
 
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+  <img align="center" width="480" height="272" src="https://media4.giphy.com/media/4uMy0wqz6V1SM/giphy.gif">
 </div>
  <br>
 <div  align="center"> 
