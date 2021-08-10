@@ -1,5 +1,3 @@
-<h1> Hi! My name is Kleber. </h1>
-
   <!--[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KleberLuccas&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleberLuccas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -15,4 +13,4 @@
  
 </div>
  
-<img align="center" width="480" height="272" src="https://piras.com.br/wp-content/uploads/2014/02/fim-de-semana.gif">
+<img align="center" width="600" height="338" src="https://piras.com.br/wp-content/uploads/2014/02/fim-de-semana.gif">
