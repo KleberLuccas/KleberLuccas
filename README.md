@@ -11,5 +11,4 @@
  ![Snake animation](https://github.com/KleberLuccas/KleberLuccas/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- 
-<img align="center" width="600" height="338" src="https://piras.com.br/wp-content/uploads/2014/02/fim-de-semana.gif">
+
