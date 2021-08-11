@@ -6,6 +6,8 @@
    <span> <b> Conhecimentos básico:</b> </span> <br>
     <img src="https://github.com/riq-dev/Icons/blob/main/icons/C.PNG?raw=true" width="50" />
     
+   <span> <b> Aprendendo:</b> </span> <br>
+   <img src="https://github.com/riq-dev/Icons/blob/main/icons/c%23.png?raw=true." width="50" />
    
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleberLuccas&layout=compact&theme=dark)
   ### Coding Stats
