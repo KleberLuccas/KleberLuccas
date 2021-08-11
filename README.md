@@ -4,7 +4,8 @@
   ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+CSS    49 mins         ████████████████████▓░░░░   82.50 % 
+HTML   10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.50 % 
 ```
 <!--END_SECTION:waka-->
 
