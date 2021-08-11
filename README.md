@@ -12,9 +12,7 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleberLuccas&layout=compact&theme=dark)
   ### Coding Stats
 <!--START_SECTION:waka-->
-```text
-CSS    49 mins         ████████████████████▓░░░░   82.50 % 
-HTML   10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.50 % 
+```
 ```
 <!--END_SECTION:waka-->
 
