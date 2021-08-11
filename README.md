@@ -1,11 +1,9 @@
   <!--[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KleberLuccas&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
-  <span> <b>Skills: </b> </span> <br>
    <span> <b>Ferramentas:</b> </span> <br>
     <img src="https://github.com/riq-dev/Icons/blob/main/icons/vscode.png?raw=true" width="205">
     <img src="https://github.com/riq-dev/Icons/blob/main/icons/WINDOWS.png?raw=true" width="110">
    <span> <b> Conhecimentos básico:</b> </span> <br>
     <img src="https://github.com/riq-dev/Icons/blob/main/icons/C.PNG?raw=true" width="50" />
-   <span> <b> Atualmente estudando:</b> </span> <br>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleberLuccas&layout=compact&theme=dark)
   ### Coding Stats
 <!--START_SECTION:waka-->
