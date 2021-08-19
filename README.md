@@ -13,8 +13,7 @@
   ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-C#      2 hrs 41 mins   ███████████████████░░░░░░   76.00 % 
-Other   50 mins         ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
