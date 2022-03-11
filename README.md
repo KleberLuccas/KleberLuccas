@@ -2,8 +2,8 @@
    <span> <b>Ferramentas:</b> </span> <br>
     <img src="https://github.com/riq-dev/Icons/blob/main/icons/vscode.png?raw=true" width="205">
     <img src="https://github.com/riq-dev/Icons/blob/main/icons/WINDOWS.png?raw=true" width="110">
-    <img src="https://github.com/riq-dev/Icons/blob/main/icons/GIT.png?raw=true" width="110">
-    <img src="https://github.com/riq-dev/Icons/blob/main/icons/c%23.png?raw=true" width="110">
+    <img src="https://github.com/riq-dev/Icons/blob/main/icons/GIT.png?raw=true" width="50">
+    <img src="https://github.com/riq-dev/Icons/blob/main/icons/c%23.png?raw=true" width="50">
 
     
    <span> <b> Conhecimentos básico:</b> </span> <br>
