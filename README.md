@@ -6,10 +6,10 @@
 
     
    <span> <b> Conhecimentos básico:</b> </span> <br>
-    <img src="https://github.com/riq-dev/Icons/blob/main/icons/GIT.png?raw=true" width="70">
+    <img src="https://github.com/riq-dev/Icons/blob/main/icons/GIT.png?raw=true" width="70"/>
     <img src="https://github.com/riq-dev/Icons/blob/main/icons/C.PNG?raw=true" width="50" />
-    <img src="https://github.com/riq-dev/Icons/blob/main/icons/c%23.png?raw=true" width="50">
-    <img src="https://github.com/riq-dev/Icons/blob/main/icons/sql.png?raw=true" width="57
+    <img src="https://github.com/riq-dev/Icons/blob/main/icons/c%23.png?raw=true" width="50"/>
+    <img src="https://github.com/riq-dev/Icons/blob/main/icons/sql.png?raw=true" width="57"/>
     
    <span> <b> Aprendendo:</b> </span> <br>
    <img src="https://github.com/riq-dev/Icons/blob/main/icons/c%23.png?raw=true." width="50" />
