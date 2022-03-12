@@ -1,6 +1,6 @@
   <!--[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KleberLuccas&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
    <span> <b>Ferramentas:</b> </span> <br>
-    <img src="https://github.com/riq-dev/Icons/blob/main/icons/vscode.png?raw=true" >
+    <img src="https://github.com/riq-dev/Icons/blob/main/icons/vs2019.png?raw=true" >
     <img src="https://github.com/riq-dev/Icons/blob/main/icons/WINDOWS.png?raw=true">
 
 
